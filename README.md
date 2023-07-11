@@ -16,3 +16,4 @@ The website allows teachers to manage attendance for online classes efficiently.
 10. Collaborative Features: The website fosters collaboration among teachers, allowing them to share attendance data, coordinate schedules, and communicate effectively.
 By creating this online attendance system, our team has provided a comprehensive solution to the challenges faced during online classes, making attendance management more streamlined and efficient for both teachers and students.
 
+ALL THE FILES RELATED TO THE PROJECT HAS BEEN ATTACHED! :)
