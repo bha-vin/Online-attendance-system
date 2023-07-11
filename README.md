@@ -15,4 +15,4 @@ The website allows teachers to manage attendance for online classes efficiently.
 9. Data Privacy and Security: The website prioritizes the privacy and security of student data. It employs encryption and follows best practices to protect sensitive information.
 10. Collaborative Features: The website fosters collaboration among teachers, allowing them to share attendance data, coordinate schedules, and communicate effectively.
 By creating this online attendance system, our team has provided a comprehensive solution to the challenges faced during online classes, making attendance management more streamlined and efficient for both teachers and students.
-![image](https://github.com/bha-vin/Online-attendance-system/assets/103947819/983eaf51-f5fa-487f-83e6-d1d28e79c8f7)
+
